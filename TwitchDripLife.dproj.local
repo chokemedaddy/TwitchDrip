@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.002,=K:\DV\DVM\DVS10\Projekte\Delphi\Unit1.pas</Transaction>
+    <Transaction>2019.10.18 09:37:31.982,=K:\DV\DVM\DVS10\Projekte\Delphi\Unit1.pas</Transaction>
+    <Transaction>2019.10.18 09:46:08.118,K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker.dfm=K:\DV\DVM\DVS10\Projekte\Delphi\Unit1.dfm</Transaction>
+    <Transaction>2019.10.18 09:46:08.118,K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker.pas=K:\DV\DVM\DVS10\Projekte\Delphi\Unit1.pas</Transaction>
+    <Transaction>2019.10.18 09:46:24.862,K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker\Project1.dproj=K:\DV\DVM\DVS10\Projekte\Delphi\Project1.dproj</Transaction>
+    <Transaction>2019.10.18 09:46:32.688,K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker\Project1.dproj=K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker\Project1.dproj</Transaction>
+    <Transaction>2019.10.18 09:46:41.761,K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker\TwitchChecker.pas=K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker.pas</Transaction>
+    <Transaction>2019.10.18 09:46:41.761,K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker\TwitchChecker.dfm=K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker.dfm</Transaction>
+    <Transaction>2019.10.18 09:46:50.381,K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker\Main.dfm=K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker\TwitchChecker.dfm</Transaction>
+    <Transaction>2019.10.18 09:46:50.381,K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker\Main.pas=K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker\TwitchChecker.pas</Transaction>
+    <Transaction>2019.10.18 11:11:29.115,K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker\TwitchDripLife.dproj=K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker\Project1.dproj</Transaction>
+    <Transaction>2019.10.18 11:11:44.203,K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker\TwitchDripLife.dproj=K:\DV\DVM\DVS10\Projekte\Delphi\TwitchChecker\TwitchDripLife.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
